@@ -1,9 +1,9 @@
-# _{ARTIFACT-ID}_
-[![GitHub stars](https://img.shields.io/github/stars/forgepack/{ARTIFACT-ID}?style=social)](https://github.com/forgepack/{ARTIFACT-ID})
-[![GitHub forks](https://img.shields.io/github/forks/forgepack/{ARTIFACT-ID}?style=social)](https://github.com/forgepack/{ARTIFACT-ID}/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/forgepack/{ARTIFACT-ID}?style=social)](https://github.com/forgepack/{ARTIFACT-ID})
+# _forgepack-{ARTIFACT-ID}_
+[![GitHub stars](https://img.shields.io/github/stars/forgepack/forgepack-{ARTIFACT-ID}?style=social)](https://github.com/forgepack/forgepack-{ARTIFACT-ID})
+[![GitHub forks](https://img.shields.io/github/forks/forgepack/forgepack-{ARTIFACT-ID}?style=social)](https://github.com/forgepack/forgepack-{ARTIFACT-ID}/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/forgepack/forgepack-{ARTIFACT-ID}?style=social)](https://github.com/forgepack/forgepack-{ARTIFACT-ID})
 
-![GitHub last commit](https://img.shields.io/github/last-commit/forgepack/{ARTIFACT-ID})
+![GitHub last commit](https://img.shields.io/github/last-commit/forgepack/forgepack-{ARTIFACT-ID})
 ![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/{ARTIFACT-ID})
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Test Coverage](https://img.shields.io/badge/coverage-0%25-red)
@@ -15,7 +15,7 @@
 
 ## Description
 
-_{ARTIFACT-ID}_ is a Spring Boot auto-configuration library that {DESCRIPTION}.
+_forgepack-{ARTIFACT-ID}_ is a Spring Boot auto-configuration library that {DESCRIPTION}.
 
 ## SUMMARY
 - [1. Installation](#1-installation)
@@ -174,9 +174,9 @@ SOFTWARE.
 
 __⭐ Did you like the project? Leave a star! ⭐__
 
-[![GitHub stars](https://img.shields.io/github/stars/forgepack/{ARTIFACT-ID}?style=social)](https://github.com/forgepack/{ARTIFACT-ID})
-[![GitHub forks](https://img.shields.io/github/forks/forgepack/{ARTIFACT-ID}?style=social)](https://github.com/forgepack/{ARTIFACT-ID}/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/forgepack/{ARTIFACT-ID}?style=social)](https://github.com/forgepack/{ARTIFACT-ID})
+[![GitHub stars](https://img.shields.io/github/stars/forgepack/forgepack-{ARTIFACT-ID}?style=social)](https://github.com/forgepack/forgepack-{ARTIFACT-ID})
+[![GitHub forks](https://img.shields.io/github/forks/forgepack/forgepack-{ARTIFACT-ID}?style=social)](https://github.com/forgepack/forgepack-{ARTIFACT-ID}/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/forgepack/forgepack-{ARTIFACT-ID}?style=social)](https://github.com/forgepack/forgepack-{ARTIFACT-ID})
 
 __Made by [Forgepack](https://github.com/forgepack)__
 

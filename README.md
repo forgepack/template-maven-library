@@ -1,10 +1,10 @@
 # _{ARTIFACT-ID}_
-[![GitHub stars](https://img.shields.io/github/stars/forgepack/{ARTIFACT_ID}?style=social)](https://github.com/forgepack/{ARTIFACT_ID})
-[![GitHub forks](https://img.shields.io/github/forks/forgepack/{ARTIFACT_ID}?style=social)](https://github.com/forgepack/{ARTIFACT_ID}/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/forgepack/{ARTIFACT_ID}?style=social)](https://github.com/forgepack/{ARTIFACT_ID})
+[![GitHub stars](https://img.shields.io/github/stars/forgepack/{ARTIFACT-ID}?style=social)](https://github.com/forgepack/{ARTIFACT-ID})
+[![GitHub forks](https://img.shields.io/github/forks/forgepack/{ARTIFACT-ID}?style=social)](https://github.com/forgepack/{ARTIFACT-ID}/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/forgepack/{ARTIFACT-ID}?style=social)](https://github.com/forgepack/{ARTIFACT-ID})
 
-![GitHub last commit](https://img.shields.io/github/last-commit/forgepack/{ARTIFACT_ID})
-![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/{ARTIFACT_ID})
+![GitHub last commit](https://img.shields.io/github/last-commit/forgepack/{ARTIFACT-ID})
+![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/{ARTIFACT-ID})
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Test Coverage](https://img.shields.io/badge/coverage-0%25-red)
 
@@ -32,14 +32,14 @@ _{ARTIFACT-ID}_ is a Spring Boot auto-configuration library that {DESCRIPTION}.
 ```xml
 <dependency>
     <groupId>dev.forgepack</groupId>
-    <artifactId>{ARTIFACT_ID}</artifactId>
+    <artifactId>{ARTIFACT-ID}</artifactId>
     <version>{VERSION}</version>
 </dependency>
 ```
 
 ### 1.2. Gradle
 ```groovy
-implementation 'dev.forgepack:{ARTIFACT_ID}:{VERSION}'
+implementation 'dev.forgepack:{ARTIFACT-ID}:{VERSION}'
 ```
 
 ## 2. USAGE
@@ -73,8 +73,8 @@ The library registers its auto-configuration through:
 META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports
 ```
 
-All public API classes are available under `dev.forgepack.{PACKAGE_NAME}.api`.  
-Internal implementation details are encapsulated in `dev.forgepack.{PACKAGE_NAME}.internal`.
+All public API classes are available under `dev.forgepack.{ARTIFACT-ID}.api`.  
+Internal implementation details are encapsulated in `dev.forgepack.{ARTIFACT-ID}.internal`.
 
 ## 4. QUALITY & TESTING
 
@@ -85,8 +85,8 @@ TOTAL NUMBER OF TESTS: 0
 
 | Package                                              | Coverage |        |
 |:-----------------------------------------------------|:--------:|:------:|
-| 📁 dev.forgepack.{PACKAGE_NAME}.api                  |    0%    |   🔴   |
-| 📁 dev.forgepack.{PACKAGE_NAME}.internal             |    0%    |   🔴   |
+| 📁 dev.forgepack.{ARTIFACT-ID}.api                  |    0%    |   🔴   |
+| 📁 dev.forgepack.{ARTIFACT-ID}.internal             |    0%    |   🔴   |
 
 ### 4.2. Types of Tests Implemented
 1. __Unit Tests__: Service and component layer
@@ -108,7 +108,7 @@ mvn clean test jacoco:report
 ```xml
 <dependency>
     <groupId>dev.forgepack</groupId>
-    <artifactId>{ARTIFACT_ID}</artifactId>
+    <artifactId>{ARTIFACT-ID}</artifactId>
     <version>{VERSION}</version>
 </dependency>
 ```
@@ -174,9 +174,9 @@ SOFTWARE.
 
 __⭐ Did you like the project? Leave a star! ⭐__
 
-[![GitHub stars](https://img.shields.io/github/stars/forgepack/{ARTIFACT_ID}?style=social)](https://github.com/forgepack/{ARTIFACT_ID})
-[![GitHub forks](https://img.shields.io/github/forks/forgepack/{ARTIFACT_ID}?style=social)](https://github.com/forgepack/{ARTIFACT_ID}/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/forgepack/{ARTIFACT_ID}?style=social)](https://github.com/forgepack/{ARTIFACT_ID})
+[![GitHub stars](https://img.shields.io/github/stars/forgepack/{ARTIFACT-ID}?style=social)](https://github.com/forgepack/{ARTIFACT-ID})
+[![GitHub forks](https://img.shields.io/github/forks/forgepack/{ARTIFACT-ID}?style=social)](https://github.com/forgepack/{ARTIFACT-ID}/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/forgepack/{ARTIFACT-ID}?style=social)](https://github.com/forgepack/{ARTIFACT-ID})
 
 __Made by [Forgepack](https://github.com/forgepack)__
 

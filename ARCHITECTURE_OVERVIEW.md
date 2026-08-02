@@ -6,8 +6,8 @@ The __{ARTIFACT-ID}__ is a Spring Boot auto-configuration library structured aro
 
 | Package        | Path                                          | Responsibility                                                                  |
 |:---------------|:----------------------------------------------|:--------------------------------------------------------------------------------|
-| __api__        | `dev.forgepack.{PACKAGE_NAME}.api`            | Public contracts: interfaces, annotations, `@ConfigurationProperties`, records. |
-| __internal__   | `dev.forgepack.{PACKAGE_NAME}.internal`       | Private implementation: beans, services, and auto-configuration classes.        |
+| __api__        | `dev.forgepack.{ARTIFACT-ID}.api`            | Public contracts: interfaces, annotations, `@ConfigurationProperties`, records. |
+| __internal__   | `dev.forgepack.{ARTIFACT-ID}.internal`       | Private implementation: beans, services, and auto-configuration classes.        |
 
 > **Rule:** Consumers should only reference types in `api`. The `internal` package is an implementation detail and may change between minor versions without notice.
 

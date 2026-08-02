@@ -1,4 +1,4 @@
-# _{LIBRARY_NAME}_
+# _{ARTIFACT-ID}_
 [![GitHub stars](https://img.shields.io/github/stars/forgepack/{ARTIFACT_ID}?style=social)](https://github.com/forgepack/{ARTIFACT_ID})
 [![GitHub forks](https://img.shields.io/github/forks/forgepack/{ARTIFACT_ID}?style=social)](https://github.com/forgepack/{ARTIFACT_ID}/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/forgepack/{ARTIFACT_ID}?style=social)](https://github.com/forgepack/{ARTIFACT_ID})
@@ -15,7 +15,7 @@
 
 ## Description
 
-_{LIBRARY_NAME}_ is a Spring Boot auto-configuration library that {DESCRIPTION}.
+_{ARTIFACT-ID}_ is a Spring Boot auto-configuration library that {DESCRIPTION}.
 
 ## SUMMARY
 - [1. Installation](#1-installation)
@@ -61,8 +61,8 @@ public class MyApplication {
 
 ```properties
 # application.properties
-forgepack.{artifact-id}.enabled=true
-forgepack.{artifact-id}.property-name=value
+forgepack.{ARTIFACT-ID}.enabled=true
+forgepack.{ARTIFACT-ID}.property-name=value
 ```
 
 ## 3. AUTO-CONFIGURATION
@@ -133,8 +133,8 @@ mvn clean test jacoco:report
 # ╔══════════════════════════════════════════════╗
 # ║         LIBRARY CONFIGURATION                ║
 # ╚══════════════════════════════════════════════╝
-forgepack.{artifact-id}.enabled=true
-forgepack.{artifact-id}.property-name=default-value
+forgepack.{ARTIFACT-ID}.enabled=true
+forgepack.{ARTIFACT-ID}.property-name=default-value
 ```
 
 ## DEVELOPERS

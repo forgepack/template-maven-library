@@ -143,7 +143,7 @@ forgepack.{ARTIFACT-ID}.property-name=default-value
 ## DEVELOPERS
 
 ### Contributors
-> _[Gadelha TI](https://github.com/gadelhati)_ - *Architect & Lead Developer*
+> _[Gadelha TI](https://github.com/gadelhati)_ - *Research Software Engineer · Software Architect · Lead Developer*
 
 ## LICENSE
 

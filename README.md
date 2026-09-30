@@ -1,12 +1,11 @@
+<div align="center">
+
 # _forgepack-{ARTIFACT-ID}_
 [![GitHub stars](https://img.shields.io/github/stars/forgepack/forgepack-{ARTIFACT-ID}?style=social)](https://github.com/forgepack/forgepack-{ARTIFACT-ID})
 [![GitHub forks](https://img.shields.io/github/forks/forgepack/forgepack-{ARTIFACT-ID}?style=social)](https://github.com/forgepack/forgepack-{ARTIFACT-ID}/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/forgepack/forgepack-{ARTIFACT-ID}?style=social)](https://github.com/forgepack/forgepack-{ARTIFACT-ID})
 
-![GitHub last commit](https://img.shields.io/github/last-commit/forgepack/forgepack-{ARTIFACT-ID})
-![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/{ARTIFACT-ID})
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Test Coverage](https://img.shields.io/badge/coverage-0%25-red)
+</div>
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-25-orange?logo=openjdk)
@@ -14,6 +13,10 @@
 ![Maven](https://img.shields.io/badge/Maven-3.8+-blue?logo=apachemaven)
 
 ## Description
+![GitHub last commit](https://img.shields.io/github/last-commit/forgepack/forgepack-{ARTIFACT-ID})
+![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/{ARTIFACT-ID})
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Test Coverage](https://img.shields.io/badge/coverage-0%25-red)
 
 _forgepack-{ARTIFACT-ID}_ is a Spring Boot auto-configuration library that {DESCRIPTION}.
 
@@ -170,7 +173,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-<div style="text-align: center;">
+<div align="center">
 
 __⭐ Did you like the project? Leave a star! ⭐__
 
